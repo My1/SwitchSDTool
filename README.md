@@ -2,10 +2,11 @@
 
 ## Todo
 
-1) change keys.txt to prod.keys
-2) read mSD seed from there and try to use that
-  * is this even possible, LPRCM does not dump the verification vector (the `private` file) on the mSD
-3) used title.keys instead of a mounted/dumped SYSTEM Partition
+1) Proper Docs involving modern Tools.
+2) change keys.txt to prod.keys
+3) read mSD seed from there and try to use that
+    * is this even possible, LPRCM does not dump the verification vector (the `private` file) on the mSD
+4) used title.keys instead of a mounted/dumped SYSTEM Partition
 
 # SwitchSSDTool original README
 
