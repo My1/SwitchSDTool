@@ -7,6 +7,7 @@
 3) read mSD seed from there and try to use that
     * is this even possible, LPRCM does not dump the verification vector (the `private` file) on the mSD
 4) used title.keys instead of a mounted/dumped SYSTEM Partition
+5) Use a Logo that is less obviously a walking trademark violation
 
 # SwitchSSDTool original README
 
